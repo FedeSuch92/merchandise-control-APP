@@ -1,1 +1,1 @@
-# merchandise-control-APP
+I have created an application to manage a construction materials company: the trucks, the materials and the orders. I have been defining certain variables and programming small algorithms related to this application. This first version will be a command line application, but all the functionalities are collected in an API for later use in different devices.
